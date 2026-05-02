@@ -126,7 +126,7 @@ videoAI-generate/
 
 ## 📜 License
 
-MIT License - Copyright (c) 2024 Wellynton Santos Jeronimo
+MIT License - Copyright (c) 2024
 
 ---
 
